@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name's Kate. I'm an engineer with 7 years of experience in a large telecom company. My professional interest is ML and data analysis, I have been developing in this field for more than a year.
+My name's Kate. I'm an engineer with 7 years of experience in a large telecom company. My professional interest is ML and data analysis, I have been developing in this field for more than a year (from March 2022).
 
 - 🔭 I’m currently intrested in RecSys and Time Series Forecasting.
 - 🌱 I like to study. I'm in the process of getting a master's degree in AI.
