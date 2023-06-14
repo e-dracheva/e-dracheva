@@ -30,16 +30,12 @@ My name's Kate. I'm an engineer with 7 years of experience in a large telecom co
 
 ### :fire: My Stats:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-dracheva&show_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=DataCamp_projects&hide_border=true&theme=flag-india" alt="stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-dracheva&hide_border=true" alt="stats" /></a></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-dracheva&show_icons=true&layout=donut-vertical&langs_count=8&hide_border=true&theme=shadow_red" alt="stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-dracheva&hide_border=true" alt="stats" /></a></a> |
 | ------------- | ------------- |
 
 
 ### :trophy: Other stats:
 
-<details>
-  <summary><b>Click to view</b></summary>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=e-dracheva&show_icons=true&hide_border=true&include_all_commits=true&theme=flag-india&hide=contribs" /> | <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=e-dracheva&theme=flat&row=2&column=3&margin-w=11.47&margin-h=11.47" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=e-dracheva&show_icons=true&hide_border=true&include_all_commits=true&theme=shadow_red&hide=contribs" /> | <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=e-dracheva&theme=flat&row=2&column=3&margin-w=11.47&margin-h=11.47" /></a> |
 | ------------- | ------------- |
 
-</details>
